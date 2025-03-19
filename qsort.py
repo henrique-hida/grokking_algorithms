@@ -1,4 +1,5 @@
 ## algoritmo de quick sort 
+## tempo médio de execução de O(n log n)
 
 def qsort(array):
     if len(array) < 2: 
